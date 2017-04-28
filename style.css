@@ -1,0 +1,62 @@
+body{
+  background-image: url('https://c1.staticflickr.com/1/726/32648491581_ab92074780_z.jpg');
+background-size: 100% 110%;
+height:100vh;
+
+}
+/*header {     
+  position: relative; /*width: 75%; 
+}
+
+header span{
+  position: relative; 
+  /* padding-left:60px;*/
+  /*width:100%;
+  font-family: 'Bangers', cursive; font-size:9.5vmax; letter-spacing: 5px; 
+  
+}/*
+*/
+#hello{
+  font-size:15.9vmax; 
+   margin-top:-1%;
+  margin-bottom:40px;
+  background: -webkit-linear-gradient(#FF3030, #660000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #b31818;
+}
+
+#im{
+  font-size:6.0vmax; color:#F5F59F;
+ margin-top:-11%; 
+}
+#first-name{
+  font-size:12.5vmax;
+ margin-top:-8%;
+  background: -webkit-linear-gradient(#660000, #FF3030);
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+#last-name{
+  font-size:12.0vmax;
+   margin-top:-11%;
+  background: -webkit-linear-gradient(#FF3030, #660000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#first-name:after {
+    text-shadow: 2px 2px 2px #000000;
+    color: transparent;  
+}
+
+.titler{
+  position:relative;
+  display:block;
+    font-family: 'Bangers', cursive; font-size:9.5vmax; letter-spacing: 5px;
+ margin:auto;
+  right:21%;
+  text-align:center;
+}
+
+.add-pad{
+  padding-bottom:20px;
+}
