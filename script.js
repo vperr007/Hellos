@@ -6,7 +6,7 @@ $(document).ready(function(){
   
   for(var n=0;n<=20;n++){
     (function skip (position){
-      setTimeout(function() {
+      setInterval(function() {
         //set back to setinterval
         //runs the code in order once then skips around
     $hello.text(hellos[position-1]);}, n*1000)
